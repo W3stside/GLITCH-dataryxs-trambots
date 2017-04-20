@@ -1,0 +1,9 @@
+{
+  "mongoUrl": "mongodb://heroku_20v9mk5w:5r0anduvf9j29ghtn8upqqemv9@ds159180.mlab.com:59180/heroku_20v9mk5w",
+  "agencies": [
+    {
+      "agency_key": "dataryxs",
+      "url": "https://cdn.glitch.com/a6bc1063-5020-4562-913b-63e68568f6b9%2FgtfsArchive.zip?1492061252042"
+    }
+  ]
+}
